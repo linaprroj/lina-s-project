@@ -1,0 +1,960 @@
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]: node:internal/modules/cjs/loader:1146
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:  throw err;
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:  ^
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]: Error: Cannot find module './routes/books'
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]: Require stack:
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]: - /var/app/current/index.js
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]: }
+Jul  5 03:26:51 ip-172-31-29-158 web[2365]: Node.js v20.12.2
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]: node:internal/modules/cjs/loader:1146
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:  throw err;
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:  ^
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]: Error: Cannot find module './routes/books'
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]: Require stack:
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]: - /var/app/current/index.js
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]: }
+Jul  5 03:26:52 ip-172-31-29-158 web[2433]: Node.js v20.12.2
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]: node:internal/modules/cjs/loader:1146
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:  throw err;
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:  ^
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]: Error: Cannot find module './routes/books'
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]: Require stack:
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]: - /var/app/current/index.js
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]: }
+Jul  5 03:26:53 ip-172-31-29-158 web[2448]: Node.js v20.12.2
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]: node:internal/modules/cjs/loader:1146
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:  throw err;
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:  ^
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]: Error: Cannot find module './routes/books'
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]: Require stack:
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]: - /var/app/current/index.js
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]: }
+Jul  5 03:26:54 ip-172-31-29-158 web[2463]: Node.js v20.12.2
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]: node:internal/modules/cjs/loader:1146
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:  throw err;
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:  ^
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]: Error: Cannot find module './routes/books'
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]: Require stack:
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]: - /var/app/current/index.js
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]: }
+Jul  5 03:26:55 ip-172-31-29-158 web[2477]: Node.js v20.12.2
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]: node:internal/modules/cjs/loader:1146
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:  throw err;
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:  ^
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]: Error: Cannot find module './routes/books'
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]: Require stack:
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]: - /var/app/current/index.js
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]: }
+Jul  5 03:26:56 ip-172-31-29-158 web[2491]: Node.js v20.12.2
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]: node:internal/modules/cjs/loader:1146
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:  throw err;
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:  ^
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]: Error: Cannot find module './routes/books'
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]: Require stack:
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]: - /var/app/current/index.js
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]: }
+Jul  5 03:33:23 ip-172-31-29-158 web[3144]: Node.js v20.12.2
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]: node:internal/modules/cjs/loader:1146
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:  throw err;
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:  ^
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]: Error: Cannot find module './routes/books'
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]: Require stack:
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]: - /var/app/current/index.js
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]: }
+Jul  5 03:33:24 ip-172-31-29-158 web[3212]: Node.js v20.12.2
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]: node:internal/modules/cjs/loader:1146
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:  throw err;
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:  ^
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]: Error: Cannot find module './routes/books'
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]: Require stack:
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]: - /var/app/current/index.js
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]: }
+Jul  5 03:33:25 ip-172-31-29-158 web[3227]: Node.js v20.12.2
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]: node:internal/modules/cjs/loader:1146
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:  throw err;
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:  ^
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]: Error: Cannot find module './routes/books'
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]: Require stack:
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]: - /var/app/current/index.js
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]: }
+Jul  5 03:33:26 ip-172-31-29-158 web[3241]: Node.js v20.12.2
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]: node:internal/modules/cjs/loader:1146
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:  throw err;
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:  ^
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]: Error: Cannot find module './routes/books'
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]: Require stack:
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]: - /var/app/current/index.js
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]: }
+Jul  5 03:33:27 ip-172-31-29-158 web[3255]: Node.js v20.12.2
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]: node:internal/modules/cjs/loader:1146
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:  throw err;
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:  ^
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]: Error: Cannot find module './routes/books'
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]: Require stack:
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]: - /var/app/current/index.js
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]: }
+Jul  5 03:33:28 ip-172-31-29-158 web[3270]: Node.js v20.12.2
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]: node:internal/modules/cjs/loader:1146
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:  throw err;
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:  ^
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]: Error: Cannot find module './routes/books'
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]: Require stack:
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]: - /var/app/current/index.js
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]: }
+Jul  5 03:34:26 ip-172-31-29-158 web[3722]: Node.js v20.12.2
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]: node:internal/modules/cjs/loader:1146
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:  throw err;
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:  ^
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]: Error: Cannot find module './routes/books'
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]: Require stack:
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]: - /var/app/current/index.js
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]: }
+Jul  5 03:34:27 ip-172-31-29-158 web[3787]: Node.js v20.12.2
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]: node:internal/modules/cjs/loader:1146
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:  throw err;
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:  ^
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]: Error: Cannot find module './routes/books'
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]: Require stack:
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]: - /var/app/current/index.js
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]: }
+Jul  5 03:34:28 ip-172-31-29-158 web[3801]: Node.js v20.12.2
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]: node:internal/modules/cjs/loader:1146
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:  throw err;
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:  ^
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]: Error: Cannot find module './routes/books'
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]: Require stack:
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]: - /var/app/current/index.js
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]: }
+Jul  5 03:34:29 ip-172-31-29-158 web[3815]: Node.js v20.12.2
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]: node:internal/modules/cjs/loader:1146
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:  throw err;
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:  ^
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]: Error: Cannot find module './routes/books'
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]: Require stack:
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]: - /var/app/current/index.js
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]: }
+Jul  5 03:34:30 ip-172-31-29-158 web[3829]: Node.js v20.12.2
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]: node:internal/modules/cjs/loader:1146
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:  throw err;
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:  ^
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]: Error: Cannot find module './routes/books'
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]: Require stack:
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]: - /var/app/current/index.js
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:    at Object.<anonymous> (/var/app/current/index.js:12:20)
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]: }
+Jul  5 03:34:30 ip-172-31-29-158 web[3843]: Node.js v20.12.2
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]: node:internal/modules/cjs/loader:1146
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:  throw err;
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:  ^
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]: Error: Cannot find module './routes/books'
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]: Require stack:
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]: - /var/app/current/index.js
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]: }
+Jul  5 03:36:46 ip-172-31-29-158 web[4352]: Node.js v20.12.2
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]: node:internal/modules/cjs/loader:1146
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:  throw err;
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:  ^
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]: Error: Cannot find module './routes/books'
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]: Require stack:
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]: - /var/app/current/index.js
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]: }
+Jul  5 03:36:47 ip-172-31-29-158 web[4417]: Node.js v20.12.2
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]: node:internal/modules/cjs/loader:1146
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:  throw err;
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:  ^
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]: Error: Cannot find module './routes/books'
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]: Require stack:
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]: - /var/app/current/index.js
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]: }
+Jul  5 03:36:47 ip-172-31-29-158 web[4431]: Node.js v20.12.2
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]: node:internal/modules/cjs/loader:1146
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:  throw err;
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:  ^
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]: Error: Cannot find module './routes/books'
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]: Require stack:
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]: - /var/app/current/index.js
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]: }
+Jul  5 03:36:48 ip-172-31-29-158 web[4445]: Node.js v20.12.2
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]: node:internal/modules/cjs/loader:1146
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:  throw err;
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:  ^
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]: Error: Cannot find module './routes/books'
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]: Require stack:
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]: - /var/app/current/index.js
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]: }
+Jul  5 03:36:49 ip-172-31-29-158 web[4459]: Node.js v20.12.2
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]: node:internal/modules/cjs/loader:1146
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:  throw err;
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:  ^
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]: Error: Cannot find module './routes/books'
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]: Require stack:
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]: - /var/app/current/index.js
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]: }
+Jul  5 03:36:51 ip-172-31-29-158 web[4473]: Node.js v20.12.2
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]: node:internal/modules/cjs/loader:1146
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:  throw err;
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:  ^
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]: Error: Cannot find module './routes/books'
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]: Require stack:
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]: - /var/app/current/index.js
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]: }
+Jul  5 03:41:17 ip-172-31-29-158 web[5066]: Node.js v20.12.2
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]: node:internal/modules/cjs/loader:1146
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:  throw err;
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:  ^
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]: Error: Cannot find module './routes/books'
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]: Require stack:
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]: - /var/app/current/index.js
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]: }
+Jul  5 03:41:18 ip-172-31-29-158 web[5131]: Node.js v20.12.2
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]: node:internal/modules/cjs/loader:1146
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:  throw err;
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:  ^
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]: Error: Cannot find module './routes/books'
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]: Require stack:
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]: - /var/app/current/index.js
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]: }
+Jul  5 03:41:19 ip-172-31-29-158 web[5146]: Node.js v20.12.2
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]: node:internal/modules/cjs/loader:1146
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:  throw err;
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:  ^
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]: Error: Cannot find module './routes/books'
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]: Require stack:
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]: - /var/app/current/index.js
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]: }
+Jul  5 03:41:20 ip-172-31-29-158 web[5160]: Node.js v20.12.2
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]: node:internal/modules/cjs/loader:1146
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:  throw err;
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:  ^
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]: Error: Cannot find module './routes/books'
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]: Require stack:
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]: - /var/app/current/index.js
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]: }
+Jul  5 03:41:21 ip-172-31-29-158 web[5175]: Node.js v20.12.2
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]: node:internal/modules/cjs/loader:1146
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:  throw err;
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:  ^
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]: Error: Cannot find module './routes/books'
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]: Require stack:
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]: - /var/app/current/index.js
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]: }
+Jul  5 03:41:22 ip-172-31-29-158 web[5189]: Node.js v20.12.2
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]: node:internal/modules/cjs/loader:1146
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:  throw err;
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:  ^
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]: Error: Cannot find module './routes/books'
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]: Require stack:
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]: - /var/app/current/index.js
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]: }
+Jul  5 03:52:24 ip-172-31-29-158 web[5968]: Node.js v20.12.2
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]: node:internal/modules/cjs/loader:1146
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:  throw err;
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:  ^
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]: Error: Cannot find module './routes/books'
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]: Require stack:
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]: - /var/app/current/index.js
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]: }
+Jul  5 03:52:25 ip-172-31-29-158 web[6038]: Node.js v20.12.2
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]: node:internal/modules/cjs/loader:1146
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:  throw err;
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:  ^
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]: Error: Cannot find module './routes/books'
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]: Require stack:
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]: - /var/app/current/index.js
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]: }
+Jul  5 03:52:26 ip-172-31-29-158 web[6052]: Node.js v20.12.2
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]: node:internal/modules/cjs/loader:1146
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:  throw err;
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:  ^
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]: Error: Cannot find module './routes/books'
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]: Require stack:
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]: - /var/app/current/index.js
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]: }
+Jul  5 03:52:27 ip-172-31-29-158 web[6066]: Node.js v20.12.2
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]: node:internal/modules/cjs/loader:1146
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:  throw err;
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:  ^
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]: Error: Cannot find module './routes/books'
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]: Require stack:
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]: - /var/app/current/index.js
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]: }
+Jul  5 03:52:28 ip-172-31-29-158 web[6080]: Node.js v20.12.2
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]: node:internal/modules/cjs/loader:1146
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:  throw err;
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:  ^
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]: Error: Cannot find module './routes/books'
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]: Require stack:
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]: - /var/app/current/index.js
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:  code: 'MODULE_NOT_FOUND',
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]: }
+Jul  5 03:52:28 ip-172-31-29-158 web[6094]: Node.js v20.12.2
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]: node:internal/modules/cjs/loader:1146
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:  throw err;
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:  ^
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]: Error: Cannot find module './routes/books'
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]: Require stack:
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]: - /var/app/current/index.js
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:  code: 'MODULE_NOT_FOUND',
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]: }
+Jul  5 04:00:20 ip-172-31-29-158 web[6731]: Node.js v20.12.2
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]: node:internal/modules/cjs/loader:1146
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:  throw err;
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:  ^
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]: Error: Cannot find module './routes/books'
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]: Require stack:
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]: - /var/app/current/index.js
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:  code: 'MODULE_NOT_FOUND',
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]: }
+Jul  5 04:00:21 ip-172-31-29-158 web[6798]: Node.js v20.12.2
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]: node:internal/modules/cjs/loader:1146
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:  throw err;
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:  ^
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]: Error: Cannot find module './routes/books'
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]: Require stack:
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]: - /var/app/current/index.js
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:  code: 'MODULE_NOT_FOUND',
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]: }
+Jul  5 04:00:22 ip-172-31-29-158 web[6812]: Node.js v20.12.2
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]: node:internal/modules/cjs/loader:1146
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:  throw err;
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:  ^
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]: Error: Cannot find module './routes/books'
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]: Require stack:
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]: - /var/app/current/index.js
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:  code: 'MODULE_NOT_FOUND',
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]: }
+Jul  5 04:00:23 ip-172-31-29-158 web[6826]: Node.js v20.12.2
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]: node:internal/modules/cjs/loader:1146
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:  throw err;
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:  ^
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]: Error: Cannot find module './routes/books'
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]: Require stack:
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]: - /var/app/current/index.js
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:  code: 'MODULE_NOT_FOUND',
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]: }
+Jul  5 04:00:24 ip-172-31-29-158 web[6840]: Node.js v20.12.2
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]: node:internal/modules/cjs/loader:1146
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:  throw err;
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:  ^
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]: Error: Cannot find module './routes/books'
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]: Require stack:
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]: - /var/app/current/index.js
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:  code: 'MODULE_NOT_FOUND',
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]: }
+Jul  5 04:00:25 ip-172-31-29-158 web[6854]: Node.js v20.12.2
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]: node:internal/modules/cjs/loader:1146
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:  throw err;
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:  ^
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]: Error: Cannot find module './routes/books'
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]: Require stack:
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]: - /var/app/current/index.js
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:  code: 'MODULE_NOT_FOUND',
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]: }
+Jul  5 04:01:20 ip-172-31-29-158 web[7377]: Node.js v20.12.2
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]: node:internal/modules/cjs/loader:1146
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:  throw err;
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:  ^
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]: Error: Cannot find module './routes/books'
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]: Require stack:
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]: - /var/app/current/index.js
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:  code: 'MODULE_NOT_FOUND',
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]: }
+Jul  5 04:01:21 ip-172-31-29-158 web[7442]: Node.js v20.12.2
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]: node:internal/modules/cjs/loader:1146
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:  throw err;
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:  ^
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]: Error: Cannot find module './routes/books'
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]: Require stack:
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]: - /var/app/current/index.js
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:  code: 'MODULE_NOT_FOUND',
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]: }
+Jul  5 04:01:22 ip-172-31-29-158 web[7456]: Node.js v20.12.2
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]: node:internal/modules/cjs/loader:1146
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:  throw err;
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:  ^
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]: Error: Cannot find module './routes/books'
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]: Require stack:
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]: - /var/app/current/index.js
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:  code: 'MODULE_NOT_FOUND',
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]: }
+Jul  5 04:01:23 ip-172-31-29-158 web[7470]: Node.js v20.12.2
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]: node:internal/modules/cjs/loader:1146
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:  throw err;
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:  ^
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]: Error: Cannot find module './routes/books'
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]: Require stack:
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]: - /var/app/current/index.js
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:  code: 'MODULE_NOT_FOUND',
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]: }
+Jul  5 04:01:24 ip-172-31-29-158 web[7484]: Node.js v20.12.2
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]: node:internal/modules/cjs/loader:1146
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:  throw err;
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:  ^
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]: Error: Cannot find module './routes/books'
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]: Require stack:
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]: - /var/app/current/index.js
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:    at Module._load (node:internal/modules/cjs/loader:984:27)
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:    at Module.require (node:internal/modules/cjs/loader:1231:19)
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:    at require (node:internal/modules/helpers:179:18)
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:    at Object.<anonymous> (/var/app/current/index.js:17:20)
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:    at Module._compile (node:internal/modules/cjs/loader:1369:14)
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:    at Module.load (node:internal/modules/cjs/loader:1206:32)
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:    at Module._load (node:internal/modules/cjs/loader:1022:12)
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12) {
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:  code: 'MODULE_NOT_FOUND',
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]:  requireStack: [ '/var/app/current/index.js' ]
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]: }
+Jul  5 04:01:25 ip-172-31-29-158 web[7498]: Node.js v20.12.2
